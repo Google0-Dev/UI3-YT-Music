@@ -33,6 +33,6 @@ Save the file by going to File > Save (or pressing Ctrl + S / Cmd + S).
 
 Open the Inspect Panel in your browser by pressing F12, or by right-clicking anywhere on the webpage and selecting Inspect (or Inspect Element).
 
-Navigate to the Console tab and paste the UI3-YT-Music.js code.
+Navigate to the Console tab and paste the [main.js](https://github.com/Google0-Dev/UI3-YT-Music/blob/main/main.js) code.
 
 (You may be prompted to type "allow pasting" into the console before you can paste the code).
