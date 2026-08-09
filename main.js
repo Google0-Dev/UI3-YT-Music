@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YT Music Material UI3 Expressive
-// @namespace    https://tampermonkey.net/
+// @namespace    https://github.com/Google0-Dev/UI3-YT-Music/tree/main
 // @version      2.0
 // @description  Material 3 Expressive redesign: real shape-scale tokens, springy motion, tonal elevation, seamless progress bar, upgrade-nag/ad removal — now reactive (MutationObserver) instead of polling twice a second.
 // @author       Google0
