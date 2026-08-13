@@ -23,7 +23,7 @@ Open your [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/d
 
 Click the Create a new script tab (the + icon).
 
-Delete any existing boilerplate code in the editor and paste the full script code.
+Delete any existing code in the editor and paste the full script code.
 
 Save the file by going to File > Save (or pressing Ctrl + S / Cmd + S).
 
