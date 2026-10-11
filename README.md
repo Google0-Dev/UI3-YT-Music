@@ -6,8 +6,6 @@
 This extension improves the YouTube Music web experience by implementing Material UI 3 Expressive design and an ad-free interface through JavaScript.
 <p/>
 
-# 👍 UI Comparison
-
 # ⬇️ Installation
 
 >[!NOTE]
